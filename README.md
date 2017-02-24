@@ -6,7 +6,7 @@ A service to log data from HackGT events.
 
 Clone the repository and run `npm install`.
 
-Store an environment variable containing the URL of your MongoDB server in `MONGO_URL`, and the port you want to use for your node webserver in 'PORT'
+Store an environment variable containing the URL of your MongoDB server in `MONGO_URL`, and the port you want to use for your node webserver in `PORT`
 
 **Before using the service, create a collection called `metrics`**
 
