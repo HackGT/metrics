@@ -1,0 +1,24 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "Metrics for HackGT events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackGT/metrics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackGT/metrics/issues"
+  },
+  "homepage": "https://github.com/HackGT/metrics#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24"
+  }
+}
