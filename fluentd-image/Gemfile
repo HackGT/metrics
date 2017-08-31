@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'fluentd', '~>0.12.32'
+gem 'activesupport', '~>4.2.6'
+gem 'fluent-plugin-kubernetes'
+gem 'redcarpet', :git => 'git://github.com/tanoku/redcarpet.git'
+gem 'oj', '~>2.18.1'
