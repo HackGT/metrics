@@ -13,7 +13,7 @@ Each instance of Fluentd performs the following steps:
 4. If a valid log line is found, push it into InfluxDB
 
 ### Files
-`fluend-image/` contains the files needed to build the Fluentd Docker image.
+`fluentd-image/` contains the files needed to build the Fluentd Docker image.
 
 `kubernetes/` contains Kubernetes configuration files for Fluentd.
 
