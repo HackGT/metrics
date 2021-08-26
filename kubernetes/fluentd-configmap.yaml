@@ -25,7 +25,7 @@ data:
     </filter>
     <match kubernetes>
       type influxdb
-      host  giggly-arachnid-influxdb.monitoring.svc.cluster.local
+      host  influxdb-influxdb.monitoring.svc.cluster.local
       port  8086
       dbname metrics
       use_ssl false
